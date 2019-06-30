@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badvasistha/bAMAZON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badvasistha/bAMAZON/issues"
+  },
+  "homepage": "https://github.com/badvasistha/bAMAZON#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.4.1",
+    "mysql": "^2.17.1"
+  }
+}
