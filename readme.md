@@ -4,5 +4,5 @@ A Node.js & MySQL command line Amazon-like storefront app that takes in customer
 ![images](/images/Continue-shopping.png)
 ![images](/images/Insufficient-Funds.png)
 ![images](/images/Item-Id-and-Quantity.png)
-![images](/images/Total-cost.png)
+![images](/images/Total-Cost.png)
 
